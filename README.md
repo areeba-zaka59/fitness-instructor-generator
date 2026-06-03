@@ -1,9 +1,5 @@
 # 🏋️‍♀️ Fitness Instructor Generator
 
-AI-Powered Personalized Workout Plans with Avatar Animation
-
-## 🚀 Live Demo
-
 👉 [View Live Application](https://fitness-instructor-generator-pzjhek4gq32pslzwygyajx.streamlit.app)
 
 ## 🎬 Demo Video
