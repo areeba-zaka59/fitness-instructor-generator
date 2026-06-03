@@ -8,7 +8,7 @@ AI-Powered Personalized Workout Plans with Avatar Animation
 
 ## 🎬 Demo Video
 
-👉 [Watch Demo Video](https://drive.google.com/file/d/19gSYw19rGRruLEw-GDDThLSdeIB9SxiL/view?usp=sharing)
+👉 [Watch Demo Video](https://drive.google.com/file/d/1mo6JOi_cdNdhmLXhoToqF5wVQ0IzbNxX/view?usp=sharing)
 
 ## 📸 Screenshot
 [App Screenshot](assets/home.png)
